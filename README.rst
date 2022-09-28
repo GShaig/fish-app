@@ -4,12 +4,6 @@ Fish App
 
 Fish App is a Python/Django backend and React Js frontend web application. The app predicts the fish weights based on fish dimensions received as input and visualizes the results with the line graphs with all possible combinations.
 
-Deployment:
------------
-The application is deployed to heroku. Please visit below link to check and use the app:
-
-    https://fishweights.herokuapp.com/
-
 
 Python/Django Backend:
 --------
@@ -35,7 +29,6 @@ Frontend API communicates with Backend API with the help of HTTP requests. Front
 
 Database:
 ---------
-Deployed version of the app uses Heroku provided PostgreSQL database.
 Local version uses local SQLite database.
 
 Setup:
